@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\template"
+		},
+		{
+			"path": "..\\utils"
+		},
+		{
+			"path": "..\\assets"
+		},
+		{
+			"path": "..\\commands"
+		},
+		{
+			"path": "..\\function"
+		},
+		{
+			"path": "..\\database"
+		},
+		{
+			"path": "..\\events"
+		}
+	]
+}
